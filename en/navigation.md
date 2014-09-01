@@ -20,7 +20,7 @@
   -->
 
 [About](index.md)
-[Download](pages/download.md)
+[Vans](pages/vans.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
