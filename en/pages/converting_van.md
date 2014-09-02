@@ -8,3 +8,7 @@ See http://www.campercabine.nl/nl/product/574-draaiplateau-voor-onder-voorstoel 
 ## Registration motorhomes
 
 - http://www.autoveiligheid.be/Doc/immobin.pdf
+
+## Checklist second hand car
+
+- http://www.kapaza.be/nl/security/vehicles_buyers.htm
