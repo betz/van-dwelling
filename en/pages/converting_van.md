@@ -7,7 +7,8 @@ See http://www.campercabine.nl/nl/product/574-draaiplateau-voor-onder-voorstoel 
 
 ## Registration motorhomes
 
-- http://www.autoveiligheid.be/Doc/immobin.pdf
+- http://www.mobilit.belgium.be/nl/binaries/immobin_tcm466-229017.pdf
+- http://www.mobilit.belgium.be/nl/wegverkeer/voertuigen/erkenningdiensten/
 
 ## Checklist second hand car
 
