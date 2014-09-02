@@ -1,5 +1,9 @@
 # Converting a van
 
+## Belgian / European law
+
+- http://belaws.be/nl/2010-03-12/02
+
 ## Turnable chairs
 
 To save space, make the driver and passenger chairs turnable.
