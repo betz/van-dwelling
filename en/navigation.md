@@ -22,6 +22,7 @@
 [About](index.md)
 [Vans](pages/vans.md)
 [Appliances](pages/appliances.md)
+[Communities](pages/communities.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
