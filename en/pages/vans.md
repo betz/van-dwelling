@@ -22,7 +22,9 @@
 
 ## Nice examples
 
+- http://www.pinterest.com/search/pins/?q=sprinter%20van
 - http://users.telenet.be/evbbmb/camper.htm
+- http://www.sprinter-rv.com/2012/02/24/the-great-canadian-diy-sprinter-conversion
 
 
 ## Converting a van
