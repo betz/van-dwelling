@@ -34,3 +34,8 @@ See [appliances](appliances.md) for appliances.
 ## Importing a vehicle to Belgium
 
 See [Importing](importing.md)
+
+
+## Calculate road tax
+
+- https://belastingen.fenb.be/vfp-portal-pub2-web/simulatieVerkeersbelasting.html#/q/top
