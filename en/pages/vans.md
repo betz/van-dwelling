@@ -20,6 +20,12 @@
 - http://users.telenet.be/evbbmb/camper.htm
 
 
+## Converting a van
+
+See [Converting a van](converting_van.md) for basic stuff.
+See [appliances](appliances.md) for appliances.
+
+
 ## Importing a vehicle to Belgium
 
 See [Importing](importing.md)
