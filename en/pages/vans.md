@@ -30,17 +30,18 @@
 - http://www.pinterest.com/search/pins/?q=sprinter%20van
 - http://users.telenet.be/evbbmb/camper.htm
 - http://www.sprinter-rv.com/2012/02/24/the-great-canadian-diy-sprinter-conversion
+- http://camping-bus.blogspot.be/2012/08/westfalia-columbus-neue-grundrisse.html
+- http://www.roadtrek.com/models.aspx?ModelID=14&YearID=15
 
 
 ## Converting a van
 
-See [Converting a van](converting_van.md) for basic stuff.
-See [appliances](appliances.md) for appliances.
+See [Converting a van](converting_van.md) and [appliances](appliances.md).
 
 
 ## Importing a vehicle to Belgium
 
-See [Importing](importing.md)
+See [Importing](importing.md).
 
 
 ## Calculate road tax
