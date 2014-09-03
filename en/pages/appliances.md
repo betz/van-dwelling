@@ -4,6 +4,7 @@
 
 - http://www.tweedehands.nl/auto-onderdelen-accessoires/autoaccessoires/stoelen/bus-zetels-187871026.html
 - http://www.tweedehands.nl/auto-onderdelen-accessoires/autoaccessoires/stoelen/
+- https://www.jasicamp.nl/beveiliging/kluizen/kluis+onder+bijrijders+stoel+mercedes+sprinter___+nr___20304
 
 ## Kitchen
 
