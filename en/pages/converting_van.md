@@ -13,6 +13,10 @@ See http://www.campercabine.nl/nl/product/574-draaiplateau-voor-onder-voorstoel 
 
 - http://sprinter-source.com/forum/showthread.php?t=22146
 
+## Bed crosswise
+
+- http://sprinter-source.com/forum/showthread.php?t=25554
+
 ## Registration motorhomes
 
 - http://www.mobilit.belgium.be/nl/binaries/immobin_tcm466-229017.pdf
