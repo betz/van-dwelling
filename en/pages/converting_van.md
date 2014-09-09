@@ -9,6 +9,10 @@
 To save space, make the driver and passenger chairs turnable.
 See http://www.campercabine.nl/nl/product/574-draaiplateau-voor-onder-voorstoel for a piece for Ducato, Peugeot and Citroën.
 
+## Gray water tank
+
+- http://sprinter-source.com/forum/showthread.php?t=22146
+
 ## Registration motorhomes
 
 - http://www.mobilit.belgium.be/nl/binaries/immobin_tcm466-229017.pdf
