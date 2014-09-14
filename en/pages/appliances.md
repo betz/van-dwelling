@@ -12,6 +12,8 @@
 
 ## Bathroom
 
+- http://www.onlinekampeerwinkel.be/contents/en-uk/d101_douche.html
+
 ## Entertainment
 
 ## Webshops
