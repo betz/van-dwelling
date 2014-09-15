@@ -1,6 +1,6 @@
 # Electric installation
 
-## Avoid power transformators
+## Avoid transformators
 
 It is useless to invert your 12V DC power to 230V AC power with an inverter if all you do is plug in a AC/DC converter to go back to 12V. Best is to use as much tools straight from your 12V DC battery.
 
