@@ -15,4 +15,11 @@ See [refrigration](refrigration.md) for some examples and more info.
 
 ## Deep cycle batteries
 
+### Info
+
+- http://www.solar-electric.com/deep-cycle-battery-faq.html#Lifespan%20of%20Batteries
+- http://www.batteryfaq.org
+
+### Places to buy
+
 - http://www.racabatteries.nl/Category/1c05374041cb00fe31a57095ba3e5362/onderhoudsvrije-loodaccu-s.html
