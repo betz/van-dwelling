@@ -12,7 +12,13 @@
 
 ## Bathroom
 
+### Shower
+
 - http://www.onlinekampeerwinkel.be/contents/en-uk/d101_douche.html
+
+### Toilet
+
+- http://www.thetford-europe.com/nl/product/c400
 
 ## Entertainment
 
