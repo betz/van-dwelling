@@ -12,3 +12,7 @@ It is useless to invert your 12V DC power to 230V AC power with an inverter if a
 
 Use a combi absorption fridge that runs on 12V DC, Gas, or 230V AC for when attached to the grid.
 See [refrigration](refrigration.md) for some examples and more info.
+
+## Deep cycle batteries
+
+- http://www.racabatteries.nl/Category/1c05374041cb00fe31a57095ba3e5362/onderhoudsvrije-loodaccu-s.html
