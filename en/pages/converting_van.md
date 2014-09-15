@@ -1,5 +1,9 @@
 # Converting a van
 
+## Electricity
+
+See [Electric installation](electricity.md).
+
 ## Belgian / European law
 
 - http://belaws.be/nl/2010-03-12/02
