@@ -18,3 +18,7 @@
 ### Ducato
 
 - http://www.motorhomefacts.com/forumname-147-fiat-ducato.html
+
+### Interesting caravan info websites
+
+- http://caravanhandboek.biod.info
