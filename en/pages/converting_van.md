@@ -4,6 +4,11 @@
 
 See [Electric installation](electricity.md).
 
+
+## Heating
+
+- http://www.gaswinkel.com/mobielegaskachels/trumatic.htm
+
 ## Belgian / European law
 
 - http://belaws.be/nl/2010-03-12/02
